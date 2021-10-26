@@ -12,6 +12,6 @@ RLadies se dedica a proporcionar una experiencia libre de acoso para todos. Desd
 
 ## Code of Conduct
 
-R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. This code of conduct applies to all R-Ladies spaces, including meetups, Twitter, Slack, Telegram, mailing lists, both online and offline. Access our code of conduct on the [RLadies Global(https://guide.rladies.org/about/coc/#english)
+R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. This code of conduct applies to all R-Ladies spaces, including meetups, Twitter, Slack, Telegram, mailing lists, both online and offline. Access our code of conduct on the [RLadies Global](https://guide.rladies.org/about/coc/#english)
 
 <img src="rladies_conduct_english.png">
